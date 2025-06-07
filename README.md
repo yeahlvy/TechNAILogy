@@ -9,6 +9,11 @@
 
 # TechNAILogy
 A speculative toolkit for crafting pseudo-circuits on artificial nails — no actual conductivity, just circuitry as surface, symbol, and style.
+<p align="center">
+  <img src="assets/samples/TechNAILogy-poster.jpg" alt="TechNAILogy 展览海报" width="400"/>
+</p>
+
+
 ## 📂 [Sample Images Folder](./samples)
 
 
