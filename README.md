@@ -4,6 +4,8 @@
 - [中文](./README.zh.md)
 - [Deutsch](./README.de.md)
 - [Nederlands](./README.nl.md)
+- [Français](./README.fr.md)
+
 
 # TechNAILogy
 A speculative toolkit for crafting pseudo-circuits on artificial nails — no actual conductivity, just circuitry as surface, symbol, and style.
