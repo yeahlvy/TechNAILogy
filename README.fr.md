@@ -1,6 +1,8 @@
 # TechNAILogy
 Un kit d’outils spéculatif pour créer des pseudo-circuits sur des ongles artificiels — aucune conductivité réelle, juste des circuits comme surface, symbole et style.
 
+---
+
 # 💅 Manuel TechNAILogy
 
 ---
