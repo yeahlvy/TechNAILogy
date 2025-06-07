@@ -14,7 +14,7 @@ A speculative toolkit for crafting pseudo-circuits on artificial nails — no ac
 </p>
 
 
-## 📂 [Sample Images Folder](./samples)
+## 📂 [Sample Images Folder](./assets/samples)
 
 
 # 💅 TechNAILogy Manual
